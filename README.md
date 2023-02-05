@@ -54,7 +54,11 @@ Coding Styles:
 linting with Eslint and formatting using Prettier.
 
 Built with:
+
 NodeJS - The JavaScript runtime.
+
 Express - The web framework.
+
 TypeScript - The language used.
+
 Sharp - NodeJS image processor.
